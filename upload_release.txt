@@ -125,6 +125,11 @@ Shi Ming
 DRINSPER
 Shenzhen Junchang Trading
 FLIP 7
+AIR-SOLE
+AIR270
+AIRADAPT
+AIRLOCK
+
 The Op Games
 COSYBAY
 Han Ju
@@ -238,7 +243,6 @@ Merrigo Life
 Merrigo Life LLC
 Cosmoglo
 Finger Stretcher
-ULTIMATE
 TEAM USA
 GBC
 Keith
@@ -485,6 +489,7 @@ WWF
 Y-3
 YSL
 ZOB
+VOIT
 Air Jordan
 American Eagle Outfitters
 apple
@@ -1088,9 +1093,9 @@ celtics
 central perk
 CENTRO STUDI POLTRONOVA PER IL DESIGN SRL
 Centrum
-CERAMIC
+NANOTHERMIC
+CERAMIC+ION
 champagne toast
-Champion
 champs sports
 chanel J12
 Changzhou Laixiong Electronic Commerce Co.
@@ -1566,6 +1571,7 @@ folklore
 Foo Fighters
 Foot Locker
 Football Club
+HOUSE OF HOOPS
 Football Club Barcelona logo
 for display only
 ford
@@ -1904,7 +1910,7 @@ Intellectco LLC
 Intelligent Change Inc
 Inter Miami CF
 Internet Explorer IE
-INTUITIVE ENVISIONS 1111
+INTUITIVE ENVISIONS
 INVICTUS
 Invisible Narratives
 Invisible Narratives LLC
@@ -2088,7 +2094,6 @@ L  INTERDIT
 L4WUDU
 LA ROCHE POSAY LABORATOIRE DERMATOLOGIQUE
 LACOSTE
-Lady
 LADY AND THE TRAMP
 LADY BLACK
 LADY MILLION
@@ -2110,7 +2115,6 @@ LANIKAI S.r.l.
 Lanvin
 Las Vegas Aces
 Las Vegas Raiders
-lash
 LASH PRINCESS
 LASH SENSATIONAL
 LASH SENSATIONAL SKY HIGH
@@ -2199,7 +2203,6 @@ LIZZIE MCGUIRE
 LLC XX
 LLC.
 L'Occitane en Provence
-LOCK
 LOCK'EM DOWN
 loewe
 LOEWE 01
@@ -2251,7 +2254,6 @@ Lovewag Pets
 Low Tech Toy Club
 Low Tech Toy Club LLC
 Lucifer
-LUCKY
 Luka Doncic
 Luke's
 Luke's Diner
@@ -2377,10 +2379,9 @@ Memphis Grizzlies
 Merci Collective
 Mercurial
 Mercury
-message
+
 MESSI
 Messika
-Meta
 METALLICA
 METALLICA logo
 Metamucil
@@ -2427,7 +2428,6 @@ Milwaukee Bucks
 milwaukeetool
 MimondoBoutique
 minecraft
-MINI
 MINIONS
 Ministry of Magic
 Minnesota North Stars
@@ -2480,7 +2480,6 @@ Morat
 More or Less
 Mortal Kombat
 MOSCHINO
-Mosquito
 MOTF
 Mother of Pearl
 MotoGP
@@ -2570,7 +2569,6 @@ New Orleans Pelicans
 New Orleans Saints logo
 New Rock
 New Rock Boots&Shoes
-new york
 NEW YORK CITY MARATHON
 new york giants
 new york jeremy scott beverly hills logo
@@ -2784,7 +2782,6 @@ pierre balmain
 Piiman Co.
 pikachu
 PILOT
-PINK
 Pink Floyd
 PINKBLUSH
 pinkfong
@@ -2801,7 +2798,6 @@ Pizza Pack LLC
 PlanB Games
 Plant Life Support
 PLANT TRAPS
-PLAY
 PLAY COMME DES GARCONS
 Play Nine
 Playboi Carti
@@ -2855,7 +2851,6 @@ Pretty Girls Club Co
 PRETTY LITTLE LIARS
 Pretty little thing
 PrettyPrintTeesStore
-PRIME
 PRIME 4 SEASONINGS
 Prime Hydration
 Prime Hydration LLC
@@ -3119,7 +3114,6 @@ SHAZAM
 SHEGLAM
 SHEIN X IP
 sheisgracielou
-Shell
 Shen Zhen Shi Dong Bai Xin Shi Ye Co.
 Shenzhen Hunting Tech Co.
 Shenzhen Jingluo Technology Innovation Co.
@@ -3526,7 +3520,6 @@ TIDE
 Tieanna Burgess
 TIEMPO
 TIFFANY BLUE
-Tiger
 TIGERDOE
 TIGHT STUFF
 TIGI Store
@@ -3627,7 +3620,6 @@ TWICE
 TwinkleTwinkle
 TwinkleTwinkle LLC
 Twist It Up
-twister
 twitter
 twitter logo
 TwoPointOh Games
@@ -3659,7 +3651,6 @@ United Airlines
 UNITED COLORS OF BENETTON
 United Nations Conference on Trade and Development
 United States Department of the Navy
-UNIVERSAL
 Universal Music Group
 universal studios
 UNIVERSAL STUDIOS FLORIDA
@@ -3902,3 +3893,5 @@ Ziggy Zig Designs
 Zimmermann
 ZUFFA
 ZUFFA LLC
+Champion
+G4 Vision
