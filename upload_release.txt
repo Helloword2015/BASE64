@@ -1,7 +1,9 @@
+
 labubu
 Pop Mart
 ZIPRO
 BUND
+AquaBrass
 Northland Aluminum Products Inc
 Nordic Ware/Northland Aluminum
 Youth Technology Wuxi Co., Ltd
@@ -144,7 +146,6 @@ AIR-SOLE
 AIR270
 AIRADAPT
 AIRLOCK
-
 The Op Games
 COSYBAY
 Han Ju
@@ -321,7 +322,6 @@ Atari
 POLO
 THFC
 MUFC
-Volkswagen
 Squishmallows
 Peppa Pig
 PJ Masks
@@ -397,7 +397,6 @@ APX
 ATR
 BBC
 BDG
-BMW
 BV
 BVB
 C&A
@@ -450,7 +449,6 @@ KC CHIEFS
 KC
 KD
 kfc
-Kia
 KOA
 LCR
 lee
@@ -530,7 +528,6 @@ MEDUSA VERSIONE 9
 mont blanc
 Motorhead
 Nike Air logo
-Nissan
 OLYMPIC GAMES
 PURA VIDA
 Ryan Good
@@ -538,7 +535,6 @@ Shein X
 sony
 Stay Home Club
 Takara Tomy
-Tesla
 The Vampire Diaries
 Tom Ford
 TOMMY HILFIGER
@@ -623,18 +619,14 @@ Air Bottle Up
 Air Canada
 Air Force 1
 AIR UP
-AIR270
-AIRADAPT
 Airborne
 Airbus
 Airbus SE
 AIRDROP
 airforce
 airfrance
-AIRLOCK
 AIRMOTO
 AIRPODS
-AIR-SOLE
 AIRSTRAIT
 AIRTAG
 Airwair
@@ -772,7 +764,6 @@ ASRV
 Ass Savers
 ASSIOMA
 ASTAR
-Aston Martin Lagonda
 ASUS
 Atelier de Production et de Cr
 ation
@@ -887,7 +878,6 @@ BENEFIT
 benefitcosmetics
 BENGALS
 Benson Mills
-Bentley
 Bershka
 better call
 Better Call Saul
@@ -1037,7 +1027,6 @@ CABLE BITE
 Cactus Jack
 Cactus Jack logo
 Caddyshack
-cadillac series 62
 CAFUN
 Cafune Limited
 CAKES body
@@ -1132,7 +1121,6 @@ Chelsea FC
 chen wenping
 cheshire cat
 Cheveux Corp.
-Chevrolet
 CHEVY
 CHEY TIYARNA
 CHHC
@@ -1169,7 +1157,6 @@ CINVIK
 Cirkul
 Cirkul Inc
 Citius
-Citroen
 CK CALVIN KLEIN JEANS
 CK K
 Clarins
@@ -1369,7 +1356,6 @@ DOBBLE
 DOC HUDSON
 DOC MCSTUFFINS
 DOCTOR FINTECH
-Dodge
 Dodge Challenger Hellcat
 Dodgers
 Dolce&Gabbana
@@ -1540,10 +1526,8 @@ Felissimo
 fender
 Fenway Park
 Ferragamo
-Ferrari
 Ferrero Rocher
 FHI Heat
-FIAT
 Ficelle
 FIFA
 FIFA WORLD CUP
@@ -1590,7 +1574,6 @@ Football Club
 HOUSE OF HOOPS
 Football Club Barcelona logo
 for display only
-ford
 Ford Escort
 FORD MUSTANG SHELBY GT 500
 Forearm Forklift
@@ -1842,7 +1825,6 @@ Hoka
 Hoka One One
 Holland & Barrett
 Hollister
-HONDA
 HONEYDUKES
 HONEYPUFF
 Hong Kong
@@ -1879,7 +1861,6 @@ hype
 Hypebeast
 Hypebeast Hong Kong Limited
 Hypersharp Laser
-Hyundai
 I AM HER
 I AM HER Apparel
 I AM KENOUGH
@@ -1973,7 +1954,6 @@ Jean
 Jean Paul Gaultier
 Jed Whedon
 JEDI 25
-jeep
 JEEP SPIRIT
 jellycat
 Jennifer Princinsky
@@ -2117,13 +2097,10 @@ Laffy Taffy
 LAHC US 1
 LAHC US 1 LLC
 lakers logo
-lamborghini
 lamer
 Lamerge
 Lana Del Rey
 Lanc
-land rover
-land rover logo
 Lando Norris
 Laneige
 L'ANGE HAIR
@@ -2165,7 +2142,6 @@ Let's Get Legless
 LET'S WATCH THE SUNSET
 levis
 Levi's
-lexus
 LGBTQIA
 Li Xilan
 Li Zhen
@@ -2356,7 +2332,6 @@ Marvel A logo
 marvelous
 Marvel's Agents of SHIELD
 MARY POPPINS
-Maserati
 Masha and the Bear
 mastercard LOGO
 Mate
@@ -2395,7 +2370,6 @@ Memphis Grizzlies
 Merci Collective
 Mercurial
 Mercury
-
 MESSI
 Messika
 METALLICA
@@ -2546,7 +2520,6 @@ Nana Osaki
 Nanaco
 NANO TITANIUM BY BABYLISSPRO
 Nanoblock
-NANOTHERMIC
 Naomi Beckman-Straus
 NARCISO NARCISO RODRIGUEZ
 Narciso Rodriguez
@@ -2631,7 +2604,7 @@ nintendo FAMICOM
 nintendo switch
 NIOXIN
 nirvana
-Nissan GTR
+
 Nissin Foods Holdings Co.
 NIVEA
 NJ Enterprise Group I Inc.
@@ -2639,7 +2612,6 @@ NO BAD DAYS
 Nokia
 Nomination
 Nordstrom
-Northland Aluminum Products Inc
 Norton
 Novelty Knit Lab Corporation
 nuka cola
@@ -2780,7 +2752,6 @@ pet parents
 Pete the Cat
 Peter Pan
 PETSTAGES
-peugeot logo
 Phailozoo
 Pharrell
 Pharrell Williams
@@ -2840,12 +2811,10 @@ polo sport
 poltronova
 POMPOMPURIN
 POP It
-Pop Mart
 POPPIN CHIC
 PopSockets
 PopSockets LLC
 Porescreen
-Porsche
 PORTLAND
 Portland Trail Blazers
 POST-IT
@@ -3003,7 +2972,6 @@ rolex
 ROLEX AWARDS FOR ENTERPRISE
 rolex logo
 ROLLERBLADE
-Rolls-Royce
 Roloway
 ROMWE
 RONILURN Store
@@ -3405,7 +3373,6 @@ TEN TOES DOWN
 tencent
 Tenga Co Ltd
 TERVO
-Tesla Model 3
 TESTA DI LEONE 3D
 Tetris
 Teva
@@ -3584,10 +3551,6 @@ TOUS
 TOY STORY
 TOYO TIRE
 TOYO TIRES
-Toyota
-toyota CROWN
-Toyota Gazoo Racing
-toyota LOGO
 TPWK
 Trademark infringement claim received via ZD from George & Company
 Trademark infringement claim received via ZD from George & Company LLC.
@@ -3748,8 +3711,6 @@ Vivienne Westwood logo
 Vlone
 vmax
 Vodafone Group Plc
-Volkswagen  T1
-Volvo
 VOMERO
 VON DUTCH
 Vray Designs
@@ -3911,3 +3872,23 @@ ZUFFA
 ZUFFA LLC
 Champion
 G4 Vision
+Perfect Fitness
+Weatherman
+LifePro
+Tile X Stone
+crankbrothers
+Wellgo
+Pyle
+Arnold Palmer
+Titan Fitness
+VHC Brands
+Modway
+SANUS
+Nathan's
+Cascade
+Howies
+NexSkin
+The Bone Edge
+Jesus Reigns USA
+CablesOnline
+Cascade Industries Corp.
