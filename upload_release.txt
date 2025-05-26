@@ -1942,7 +1942,7 @@ ITO CORPORATION
 IT'S A DATE
 Ivy Park
 J logo
-J  ADIOR
+JADIOR
 JACK & JONES
 Jack Daniel's
 JACK SPARROW
@@ -2096,7 +2096,7 @@ Kylskapspoesi AB
 Kyrie Irving
 L JL
 L. Tremain Inc.
-L  INTERDIT
+LINTERDIT
 L4WUDU
 LA ROCHE POSAY LABORATOIRE DERMATOLOGIQUE
 LACOSTE
@@ -2360,7 +2360,7 @@ MAYFAIR ATHLETIC CLUB
 Mazevoo
 Mc2saintbarth
 Mcdonald
-MCDONALD  S
+MCDONALDS
 McLaren
 MCRX
 me paris
@@ -3573,8 +3573,8 @@ Transformers
 Trapstar
 Trapstar London
 TRASH PANDA TAROT
-TRAVELER  S FACTORY
-TRAVELER  S notebook
+TRAVELERS FACTORY
+TRAVELERS notebook
 Traveler's Choice
 Travelway Group International Inc.
 Travis Scott
@@ -3980,3 +3980,85 @@ Sierra Designs
 BestOffice
 FXW
 Doeplex
+
+
+Art3d
+Ayamaya 
+Basin
+BEBECAR
+Bloem
+BookishBunny
+BTM
+CheroCar
+CLIMB RIGHT
+DeVault Enterprises
+Five Star
+foxelli outside gear
+Ginger
+Hearth & Hand w/Magnolia Furniture
+Hearth & Hand w
+Magnolia Furniture
+Hearth & Hand
+HOOBRO
+HOROW
+Imperial Rooms
+Jaeger Sports
+Kitsure
+Lavish Home
+LEAMAI
+METRO
+Mustee
+NINESTARS
+Plano Model Products
+Project Source
+RockBros
+Sedona
+Silverline
+TFM USA
+The Wise Company, Inc.
+vidaXL
+World Tableware
+BEACON
+Crazy Creek
+Idea Nuova
+Ideaworks
+Mustee
+Nickson
+Project Source
+RockBros
+Silverline
+Strong Camel
+TFM USA
+vidaXL
+World Tableware
+
+
+Atwood Woodworking
+Edgar Marcus
+GENIQUA
+H&B Luxuries
+Hibbent
+Home Soft Things
+HomeSoftThings
+Labwork
+Legacy Decor
+Membrane Solutionss
+MOSTPLUS
+Motor Sich
+Neoteck
+PQY
+Qpets
+Reliable Aftermarket Parts Our Name Says It All
+Senlesen
+STPGoods
+Windscreen4less
+ZUNMOS
+ZXMT
+ApplianceSupercenter.com
+Artudatech
+Extreme Mist
+EZ Motoring
+Membrane Solutions
+Mystical Fire
+WALL DIMENSION
+XPRT Fitness
