@@ -8,12 +8,10 @@ Genzest LLC
 Al Rehab Perfumes
 Choco Musk
 LoveShackFancy
-LOVESHACKFANCY
 labubu
 Pop Mart
 ZIPRO
 BUND
-AquaBrass
 Northland Aluminum Products Inc
 Nordic Ware/Northland Aluminum
 Youth Technology Wuxi Co., Ltd
@@ -27,61 +25,16 @@ MODERN ROCKSTARS
 GOLF SHOTS
 JUNG KWAN JANG
 KOREA GINSENG CORP
-Zojirushi
-KitchenAid
-SIG SAUER
-Kirkland Signature
 Coleman
-Callaway
 Wilson
-Schwinn
-Dakine
-Tupperware
-HYPER Tough
-Marcy
-Osprey
-STOTT PILATES
-Marucci
-Titleist
-Klein Tools
 Wera
-Knipex
-Sterilite
-Arctic Zone
-Flexispot
-Serenelife
 Delta
-Outsunny
-SOG
-Nite Ize
-Snap-on
-Ridgid
-Rubbermaid
-OXO
-Hampton Bay
-Mainstays
-Threshold
-Hearth & Hand with Magnolia
-Opalhouse
-Jungalow
 Yeti
-TriggerPoint
 SPRI
-Karat
-Keter
 WEN
-Karcher
-Gorilla Ladders
-Werner
 Fiesta
-Crosley
-Sunbeam
-Bushnell
 Leatherman
-Yeti Coolers
-Graco
 Dyson
-Peloton
 BLENDER BOTTLE
 Runway Blue
 PANP
@@ -201,21 +154,14 @@ Pioneer Woman LLC
 THE PIONEER WOMAN
 ATHENA CLUB
 SNUGGLE PUPPY
-High Sierra
 HALARA
 THAT'S A AWFUL LOT OF COUGH SYRUP
 Bruce Brown Film
 ENDLESS SUMMER
-Elite First Aid
 alo yoga
 ALO
 RON JON
 Ron Jon Surf Shop
-Gibson Elite
-Amazon Basics
-Outdoor Bunker
-Tommy Armour
-JM New York
 Samsonite
 DUKAP
 INUSA
@@ -227,169 +173,72 @@ PERFUME MIST
 BRUME PARFUMÉE
 Van Cleef＆Arpels
 HANGZHOU PULING TECHNOLOGY
-Super PDR
-MALIN+GOETZ
-13 Fishing
-Allen + Roth
-Better Homes & Gardens
-American Spirit
-Belden
-AllClad
-------------------------GPT提取出来------------------
 Supreme
 Crye Precision
 Marilyn Monroe
-Bondhus
-Bontrager
 Caterpillar
-Columbia
-Craftsman
-Cuisinart
-DEWALT
-Fox Tactical
-Garmin
 Gerber
-Husky
-Kobalt
-Kohler
-Moen
-PEAKY BLINDERS
 Crocs
 SKECHERS
 Simple Modern
 Frisbee
-Volcom
-Teleties
 the Creator
 Tyler
-Aimee Stewart
-Laurie Snow Hein
-Julie Stiebritz
-Merrigo Life
-Merrigo Life LLC
 Cosmoglo
-Finger Stretcher
-TEAM USA
-GBC
 Keith
-HSP
 Tangle
-Anonymous Patents
-HALLMARK
-Poppy Playtime
 Barbie
 UGG
 Paw Patrol
 Kendra Scott
-The Crow
 Dior
 Nike
 Avenged Sevenfold
 SONIC THE HEDGEHOG
-Julia Noni
 Chanel
-Thrive Causemetics
 Nicki Minaj
-WaterDrop
-Jonas Sebastian Jodicke
 Bluey
 KTM
-Bigfoot
-The Cure
 Triumph
-Monster Energy
 Eagles
-PurplePillow
 Chrome Hearts
 GM
 Harley-Davidson
-Beadnova
 Tiffany
-Montblanc
-Victoria’s Secret
-Electrolit
 Birkenstock
 Fendi
 Kitsch
 Lucia Heffernan
-Ray-Ban & Oakley
 Gucci
 Converse
-Sp5der
-Dorit Maritta Fuhg
-Honeycomb Patents
 Bad Bunny
 VOGUE
-Chrysler
 RAMONES
-GIORDANO
-Rubik’s Cube
-Robert Farkas
 Pearl Jam
 Care Bears
-Grumpy Cat
 Atari
 POLO
-THFC
-MUFC
 Squishmallows
 Peppa Pig
-PJ Masks
-Tumi
 American Tourister
-LeSportsac
 Kiehl's
-Peter Thomas Roth
 CeraVe
 Olaplex
-Brooklinen
-Parachute
-Boll & Branch
-Riley Home
-Coyuchi
-Magnolia Home
-AllModern
-Joss & Main
-Wayfair
 West Elm
-Black+Decker
 Stanley
-Irwin
-Staples
-Office Depot
-Fellowes
 3M
-Swingline
 Bass Pro Shops
 Bass Pro
-Cabela's
-Scheels
 The North Face
 Fisher-Price
 Mattel
 Hasbro
 LEGO
 Spin Master
-PetSafe
 KONG
-Blue Buffalo
-Hill's Science Diet
-Purina
-WeatherTech
 Bosch
-ACDelco
-Mobil 1
-Goodyea
 Goyard
-Alastin Skincare
-Fias Inc
-Fias
-Purple Innovation
-POMSIES
-BLUME
-GRUMBLIES
 Outward Hound
-------------------------原始资料------------------
 BTS
 CDG
 DG
@@ -452,7 +301,6 @@ IRO
 JBL
 JC
 JML
-JW.ORG
 JYP
 KAA
 KC CHIEFS
@@ -484,7 +332,7 @@ NYX
 OPI
 PH5
 POC
-Pokémon
+Pokemon
 Pop
 PS3
 PS5
@@ -513,7 +361,6 @@ WWF
 Y-3
 YSL
 ZOB
-VOIT
 Air Jordan
 American Eagle Outfitters
 apple
@@ -1508,8 +1355,6 @@ Fall Out Boy
 fallout
 FANCY NANCY
 FancyFeetsTeam
-Fans First Entertainment
-Fans First Entertainment LLC
 fanta
 Fantastic Beasts
 FantasticXml
@@ -1581,7 +1426,6 @@ folklore
 Foo Fighters
 Foot Locker
 Football Club
-HOUSE OF HOOPS
 Football Club Barcelona logo
 for display only
 Ford Escort
@@ -1942,7 +1786,6 @@ ITO CORPORATION
 IT'S A DATE
 Ivy Park
 J logo
-JADIOR
 JACK & JONES
 Jack Daniel's
 JACK SPARROW
@@ -2096,7 +1939,6 @@ Kylskapspoesi AB
 Kyrie Irving
 L JL
 L. Tremain Inc.
-LINTERDIT
 L4WUDU
 LA ROCHE POSAY LABORATOIRE DERMATOLOGIQUE
 LACOSTE
@@ -2360,7 +2202,6 @@ MAYFAIR ATHLETIC CLUB
 Mazevoo
 Mc2saintbarth
 Mcdonald
-MCDONALDS
 McLaren
 MCRX
 me paris
@@ -2591,6 +2432,7 @@ Nickelodeon
 Night at the Museum
 Nightmare on Elm Street
 NIKE air
+air force
 nike Air Force 1 Low Design
 NIKE air huarche logo
 NIKE Air Jordan 1
@@ -2614,7 +2456,6 @@ nintendo FAMICOM
 nintendo switch
 NIOXIN
 nirvana
-
 Nissin Foods Holdings Co.
 NIVEA
 NJ Enterprise Group I Inc.
@@ -2904,6 +2745,7 @@ Ravenclaw
 RAVENS
 Raya and the Last Dragon
 Ray-Ban
+Ray Ban
 RAYHONG
 RAZER
 RB Leipzig
@@ -2921,8 +2763,6 @@ receive complaint from Rebecca Campbell Creative Ltd.
 Receive take down notice from the trademark owner AMUSE Co.
 Receive take down notice from trademark owner
 Received complaint from Spoor & Fisher
-received take down request. SKC had already been removed.
-Received takedown notice from attorney of C. Josef Lamy GmbH
 Red Bull GmbH
 red hot chili peppers
 red hot chili peppers logo
@@ -3063,7 +2903,6 @@ Schwan-STABILO
 Scoob
 Scooby-Doo
 Scream
-Scrub 0Daddy
 SEAL TEAM
 Sealook
 seamolly
@@ -3573,8 +3412,6 @@ Transformers
 Trapstar
 Trapstar London
 TRASH PANDA TAROT
-TRAVELERS FACTORY
-TRAVELERS notebook
 Traveler's Choice
 Travelway Group International Inc.
 Travis Scott
@@ -3858,7 +3695,6 @@ You are All Caught Up
 YOU LAUGH YOU DRINK
 YOU LAUGH YOU'RE OUT
 YOU LIE YOU DRINK
-young
 YOUNG JUSTICE
 yours truly
 Yours Truly Clothing
@@ -3880,185 +3716,197 @@ Ziggy Zig Designs
 Zimmermann
 ZUFFA
 ZUFFA LLC
-Champion
-G4 Vision
-Perfect Fitness
-Weatherman
-LifePro
-Tile X Stone
-crankbrothers
-Wellgo
-Pyle
-Arnold Palmer
-Titan Fitness
-VHC Brands
-Modway
-SANUS
-Nathan's
-Cascade
-Howies
-NexSkin
-The Bone Edge
-Jesus Reigns USA
-CablesOnline
-Cascade Industries Corp.
-RDX
-Tone Fitness
-Surron
-Paul Frank
-Pfister
-Yankee Candle
-Seville Classics
-Noritake
-Rockville
-Topeak
-Estwing
-Coghlan's
-Hefty
-Kringle Candle
 
-Tidy Cats
-Utopia Towels / Utopia Kitchen
-Utopia Towels
-Utopia Kitchen
-Ozark Trail
-Mopar
-Condor
-BalanceFrom
-Duck Covers
-Glacier Bay
-Gotham Steel / Granitestone
-Gotham Steel
-Granitestone
-FirsTime & Co.
-FirsTime
-Zober
-Hi-Run
-Hi Run
-Yocaher
-Wheelmaster
-5 Core
-HOMCOM
-PHI VILLA
-Topeakmart
-Giantex
-CleverMade
-Costway
-Zinus
-Furinno
-Clam
-P-Line
-Kreepy Krauly
-Motortrend
-Blue Wave
-Homz
-Akro-Mils
-Knape & Vogt
-Hodedah
-PJ Wood
-STP
-Craig Frames
-Pure Garden
-Blackspire
-Core Flyte
-Project X
-Bicycle Wheel Warehouse
-ZOKOP
-Wopet
-WorkPro
-AquaDance
-Barska
-Clara Clark
-Great Value
-HyLoft
-Jump Stretch
-Xpose Safety
-Glarry
-Petromax
-Nearly Natural
-Sierra Designs
-BestOffice
-FXW
-Doeplex
+METRONIC
+air jordan 1
+coach
+DR.Martens
+DR Martens
+vodafone
+jordan 1 og
+jordan 11
+jordan 13
+jordan 4
+juka innovations corporation (tubshroom company)
+Juka Innovations Corporation
+tubshroom company
+kate spade
+Kipling Apparel Corp.
+Kipling Apparel
+Kipling
+lagerfeld
+lol surprise
+lolsurprise
+LIL MONSTER HOUSE
+nike air max
+real madrid
+Seiko Epson
+seiko
+tiffany & co
+tiger woods
+zara
+topshop
+wolverine
+ysl saint laurent
+RAIDERS
 
+Louis Vuitton
+Gucci
+Prada
+Chanel
+Dior
+Hermes
+Burberry
+Fendi
+Balenciaga
+Saint Laurent
+YSL
+Givenchy
+Valentino
+Bottega Veneta
+Celine
+Loewe
+Alexander McQueen
+Coach
+Michael Kors
+Kate Spade
+Tory Burch
+Dooney & Bourke
+Fossil
+Marc Jacobs
+DKNY
+Ralph Lauren
+Tommy Hilfiger
+Calvin Klein
+Nike
+Adidas
+Under Armour
+Lululemon
+Puma
+New Balance
+Reebok
+Asics
+Athleta
+Fabletics
+Alo Yoga
+Brooks Running
+Skechers
+Vans
+Converse
+Timberland
+Dr. Martens
+UGG
+Merrell
+Patagonia
+The North Face
+Columbia Sportswear
+Arcteryx
+Salomon
+Marmot
+Yeti
+Hydro Flask
+Stanley
+Coleman
+CamelBak
+Osprey
+Black Diamond
+REI Co-op
+Whirlpool
+GE Appliances
+KitchenAid
+Bosch
+Miele
+Samsung
+LG
+Viking
+Sub-Zero / Wolf
+Sub-Zero
+Traeger
+Cuisinart
+Le Creuset
+Apple
+Microsoft
+Google
+Amazon
+Samsung
+Sony
+Bose
+Panasonic
+Dell
+HP
+Lenovo
+Fitbit
+GoPro
+Garmin
+DJI
+Sonos
+Estee Lauder
+Clinique
+MAC Cosmetics
+Kiehlls
+LOreal
+Lancome
+Shiseido
+Urban Decay
+Too Faced
+La Mer
+Neutrogena
+Olay
+Dove
+Pantene
+Gillette
+DeWalt
+Milwaukee
+Makita
+Black & Decker
+Craftsman
+Stanley Tools
+Snap-on
+Festool
+Dremel
+Michelin
+Bridgestone
+Goodyear
+Pirelli
+Continental
+Mobil
+Shell
+LEGO
+Mattel
+Hasbro
+Nintendo
+Sony PlayStation
+Microsoft Xbox
+Funko
+Spin Master
+Ravensburger
+Disney
+Coca-Cola
+PepsiCo
+Starbucks
+Nestle
+Kraft Heinz
+Mondelez
+Kellogg
+General Mills
+Mars
+Hershey
+Anheuser-Busch
+Bud Light
+Johnson & Johnson
+Pfizer
+Merck
+GlaxoSmithKline
+Novartis
+Roche
+Sanofi
+AbbVie
+Bayer
+Amazon Basics
+Walmart
+Target
+Costco
+Best Buy
+Home Depot
+Lowe's
 
-Art3d
-Ayamaya 
-Basin
-BEBECAR
-Bloem
-BookishBunny
-BTM
-CheroCar
-CLIMB RIGHT
-DeVault Enterprises
-Five Star
-foxelli outside gear
-Ginger
-Hearth & Hand w/Magnolia Furniture
-Hearth & Hand w
-Magnolia Furniture
-Hearth & Hand
-HOOBRO
-HOROW
-Imperial Rooms
-Jaeger Sports
-Kitsure
-Lavish Home
-LEAMAI
-METRO
-Mustee
-NINESTARS
-Plano Model Products
-Project Source
-RockBros
-Sedona
-Silverline
-TFM USA
-The Wise Company, Inc.
-vidaXL
-World Tableware
-BEACON
-Crazy Creek
-Idea Nuova
-Ideaworks
-Mustee
-Nickson
-Project Source
-RockBros
-Silverline
-Strong Camel
-TFM USA
-vidaXL
-World Tableware
-
-
-Atwood Woodworking
-Edgar Marcus
-GENIQUA
-H&B Luxuries
-Hibbent
-Home Soft Things
-HomeSoftThings
-Labwork
-Legacy Decor
-Membrane Solutionss
-MOSTPLUS
-Motor Sich
-Neoteck
-PQY
-Qpets
-Reliable Aftermarket Parts Our Name Says It All
-Senlesen
-STPGoods
-Windscreen4less
-ZUNMOS
-ZXMT
-ApplianceSupercenter.com
-Artudatech
-Extreme Mist
-EZ Motoring
-Membrane Solutions
-Mystical Fire
-WALL DIMENSION
-XPRT Fitness
