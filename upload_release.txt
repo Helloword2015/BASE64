@@ -2118,7 +2118,6 @@ LOUNGE
 KICKCHECK
 INFINALON
 Foot Locker
-PRINT
 FLYWIRE
 FLYPRINT
 FLYLEATHER
@@ -2148,7 +2147,6 @@ SUPERBAD
 HIPPIE
 SPACEHIPPY
 SNEAKEASY
-SLING
 REVOLUTIONARY TO ITS CORE
 POWER PLATFORM.
 PHYLITE
@@ -3795,7 +3793,6 @@ playstation3
 NIKE Air Jordan 1
 Akagi RedSuns
 los angeles sparks
-tote bag
 THE TOTE BAG
 Gryffindor
 Hufflepuff
@@ -4196,7 +4193,6 @@ Vault Boy
 Vikings
 WARHAMMER 40,000
 White Cap Waves Start From Nothing
-Wilson
 world cup
 WUHAN JINGCHENINTELLIGENTIDENTIFICATIONTECHNOLOGY
 You are All Caught Up
@@ -4269,7 +4265,6 @@ Dremel
 Michelin
 Bridgestone
 Goodyear
-Continental
 Mobil
 Sony PlayStation
 Microsoft Xbox
@@ -4388,7 +4383,6 @@ GT3
 H&M
 HBO
 Herm
-HERO
 Hoka
 hp
 HUGO
@@ -4477,7 +4471,6 @@ UEFA
 zara
 Bose
 DJI
-CORA
 eos
 DACI
 IGUY
@@ -4507,7 +4500,6 @@ P&G
 BT
 MB
 itel
-vivo
 MELO
 ANTA
 SBS
