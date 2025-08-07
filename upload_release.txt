@@ -2127,11 +2127,9 @@ FLEXLOFT
 FITADAPT
 ENGAGE
 ELITE
-DYNAMIC
 ICSSPE
 CTR360
 CANARINHO
-BETTER
 NIKE WOMEN
 AIR-SOLE
 AIR270
@@ -3659,7 +3657,6 @@ Toronto Raptors
 San Antonio Spurs
 Sacramento Kings
 Portland Trail Blazers
-PORTLAND
 TRAlL BLAZERS
 Oklahoma City Thunder
 Washington Nationals
@@ -3827,7 +3824,6 @@ Pretty Girls Club
 Shay London
 spirited
 KOMAR ALICJA MSQ
-Mosquito
 31767
 Helloween
 apple news APP logo
@@ -4089,7 +4085,6 @@ Coleman
 Crazy Aaron鈥檚 Enterprise
 Cristiano Ronaldo C
 DC super girl
-Delta
 DEPT.
 DESIGNED TO MOVE
 detroit tigers
@@ -4104,7 +4099,6 @@ DYNAMIC SUPPORT
 Eagles
 Ed Hardy
 Face ID
-Fiesta
 Football Club
 FRANCIS KURKDJIAN
 FUEL PRINT
@@ -4234,6 +4228,7 @@ ysl saint laurent
 RAIDERS
 Dooney & Bourke
 Fossil
+Traeger
 Athleta
 Fabletics
 Brooks Running
@@ -4251,7 +4246,6 @@ KitchenAid
 Miele
 Sub-Zero / Wolf
 Sub-Zero
-Traeger
 Cuisinart
 Fitbit
 GoPro
@@ -4468,7 +4462,6 @@ UGG
 UNO
 Vans
 VEJA
-VW
 WB
 WEN
 Wera
@@ -4516,10 +4509,8 @@ MB
 itel
 vivo
 MELO
-LINE
 ANTA
 SBS
-FOX
 TCB
 AFA
 IG
