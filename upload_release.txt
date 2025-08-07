@@ -205,8 +205,6 @@ Brawl Stars
 BRAWL
 Bass Pro Shops
 Cabela's
-Isuzu Motors Limited
-Isuzu
 West Ham United Football Club Limited
 WEST HAM UNITED
 Umbra LLC
@@ -279,10 +277,7 @@ Carpenter Co.
 SERENE
 Alpine
 Veuve Clicquot
-Aston Martin
 Zegna
-Rolls-Royce
-Bentley
 Primark
 Bosideng
 TAG Heuer
@@ -291,7 +286,6 @@ TRESemm
 Bijoux International
 EASTSPORT
 Sunsilk
-Clear
 colgate
 Palmolive
 Elvive
@@ -571,7 +565,6 @@ O Positiv
 KINGS OF NY
 COLOR WOW
 Ohio Against The World
-Maserati
 snoopy
 PEANUTS
 CHARLIE BROWN
@@ -678,7 +671,6 @@ Cole Haan
 Goggins LLC
 Goggins
 DAVID GOGGINS
-Ferrari
 Asia Master Trade Co.
 AXIS-Y
 Shen Zhen Shi Dong Bai Xin Shi Ye Co.
@@ -1057,7 +1049,6 @@ Hogsmeade
 Three Broomsticks
 GO FOR THE GOLD
 General Motors
-Chevrolet
 silverado
 cider
 Pierce the Veil
@@ -1085,7 +1076,6 @@ Milwaukee Brewers
 Milwaukee
 H&M Drymove
 3M COMPANY
-magic
 COMMAND
 Very High Bond
 TOMMY HILFIGER
@@ -1242,7 +1232,6 @@ Animaniacs
 BATMAN V SUPERMAN
 DAWN OF JUSTICE
 batgirl
-Automobili Lamborghini S.p.A.
 SHAZAM
 Batwoman
 BLACK ADAM
@@ -1317,7 +1306,6 @@ ultra le teint
 victoria's secret
 love spell
 CANDY BABY
-Porsche
 Albert Einstein
 Leatt
 Xceed Holdings CC
@@ -1365,7 +1353,7 @@ SECRET XPRESS CONTROL
 apple
 AIRTAG
 Star Wars
-JEDI  25
+JEDI25
 le labo
 SPIRIT OF THE ANIMALS
 GILDED REVERIE LENORMAND
@@ -1593,7 +1581,6 @@ PIRATES OF THE CARIBBEAN
 DEAD MEN TELL NO TALES
 Tupac Shakur
 Tupac
-feat.
 HATSUNE MIKU
 SHEGLAM
 CHEVY
@@ -1675,7 +1662,6 @@ one million
 LADY MILLION
 Violations related to brand
 pack and other elements of Paco Rabanne
-VOLKSWAGEN
 TALKING POINT CARDS
 KERASTASE
 KERASTASE PARIS
@@ -1723,7 +1709,7 @@ Ontel Products Corporation
 HANDY HEATER
 ARCTIC AIR
 SAUVAGE
-NFL  New Orleans Saints
+NFLNew Orleans Saints
 Kansas City Chiefs
 cheshire cat
 jetBlue
@@ -1772,7 +1758,7 @@ FIVE MINUTE JOURNAL
 We received a Zendesk takedown request from Intelligent Change Inc
 FantasticXml
 Kung Fu Panda
-Formula One   Formula One
+Formula One Formula One
 Formula 1
 Breath of the Wild
 LONG LIVE COWGIRLS
@@ -1796,7 +1782,6 @@ GUMMY BEAR TAROT
 TALISMAN ORACLE
 SMITH-WAITE CENTENNIAL TAROT
 SMITH-WAITE TAROT DECK
-HONDA
 Valeriia Kapusta
 MOON WITCH
 Dolphin Hat Games
@@ -1862,6 +1847,7 @@ Catan GmbH
 CATAN
 Exploding Kittens
 off white
+off-white
 for display only
 Marni
 Starface
@@ -1898,7 +1884,6 @@ Fall Out Boy
 Through the Storm LLC
 Through the Storm
 Stranger Things
-Eleven
 LGBTQIA
 Classroom of Compassion
 David Mal
@@ -1914,8 +1899,8 @@ SAN DIEGO PADRES
 NCT DREAM
 WINNIE THE POOH
 ETHEREAL VISIONS ILLUMINATED TAROT
-Valve
 STEAM
+Valve
 Merci Collective
 Sud Scrub
 Pocket Shot LLC
@@ -1949,7 +1934,6 @@ LACOSTE
 Gucci
 L'AVEUGLE PAR AMOUR
 Led Zeppelin
-Tesla
 AMOREPACIFIC
 innisfree
 Alpargatas
@@ -1988,7 +1972,6 @@ Hypebeast Hong Kong Limited
 Hong Kong
 Hypebeast
 Veritaserum
-Fresh
 HEAD & SHOULDERS
 SESDERMA
 AESOP
@@ -2054,7 +2037,6 @@ Marlboro
 ideavillage
 FLAWLESS
 perfect black
-Volvo
 st.louis rams
 SpongeBob SquarePants
 SpongeBob
@@ -2065,7 +2047,7 @@ CHILDHOME
 MOMMY BAG
 Philipp Plein
 Megadeth
-nintendo  FAMICOM
+nintendoFAMICOM
 PopSockets LLC
 PopSockets
 Ibanez
@@ -2077,7 +2059,7 @@ Jed Whedon
 Maurisa Tancharoen
 LOVER
 SAINT LAURENT PARIS
-Cristiano Ronaldo  C
+Cristiano RonaldoC
 Taylor
 Pandora
 Per Enevoldsen
@@ -2091,7 +2073,7 @@ love pink
 airforce
 Cobra Kai
 T.S.1989
-adidas   samba
+adidas samba
 West Elm
 JIL SANDER logo
 G-SHOCK
@@ -2150,8 +2132,6 @@ FITADAPT
 ENGAGE
 ELITE
 DYNAMIC
-SUPPORT
-DESIGNED
 ICSSPE
 CTR360
 CANARINHO
@@ -2200,7 +2180,7 @@ LVCEA
 incontro d'amore
 DISNEY FROZEN
 SERPENTI
-DISNEY  BABY
+DISNEYBABY
 MAGISTA
 MAGNIGRIP
 lululemon
@@ -2298,7 +2278,6 @@ harry styles
 Pleasing
 JACK & JONES
 Chicago
-White
 Gorillaz
 logo skechers
 Harrods
@@ -2329,7 +2308,6 @@ Time and Tru
 Green Monster
 Fenway Park
 Air Force 1
-nissan
 Kubistar
 Pixar Animation Studios
 Laura Kim
@@ -2378,7 +2356,6 @@ The Grinch
 Maison Margiela
 MM6 Maison Margiela
 a bathing ape
-JEEP SPIRIT
 imessage
 Weekend Collective
 rubik's cube
@@ -2400,7 +2377,6 @@ collusion
 Venom
 Wonder Girl
 Tod's
-Toyota Gazoo Racing
 J-Hope
 J-Hope daydream
 furious five
@@ -2414,21 +2390,12 @@ miffy
 LINE FRIENDS
 Miraculous
 AMIRI
-5452860
-5017318
-toyota LOGO
 Squid Game
 Jimmy Choo
 Marimekko
 Dallas Cowboys
-super
-Pacific
-Sunwear
 SLAM DUNK
 Riverdale
-Waves
-Start
-Nothing
 zaful
 Koreen
 WNRS LLC
@@ -2436,21 +2403,15 @@ We're Not Really Strangers LLC
 We're Not Really Strangers
 We received a takedown request from We're Not Really Strangers
 Cheveux Corp.
-ralph
 logo Dioramour
 corvette
 Starfleet
-Academy
 L'Occitane en Provence
 Thom Browne
 new york
 chloe
 Hocus Pocus
 j'adore
-LINCOLN
-Beyonc
-Truth
-There
 The Neighbourhood
 bally
 naruto
@@ -2462,23 +2423,13 @@ the life of pablo
 jordan
 air jordan
 calvin klein CK
-Atlanta
-Falcons
 belle
 Enchanted
 Snoop Dogg and Wiz Khalifa
-young
-wild and free
-under
-armour
-paradise
 Back to the Future
 app vsco
 Hawkins Middle School
 Hawkins High School
-blind
-Simons
-world
 victoria's
 heartbreaker
 ELEMENT
@@ -2503,7 +2454,6 @@ Rebecca Campbell
 receive complaint from Rebecca Campbell Creative Ltd.
 yamaha vmax
 shakespeare
-company
 nirvana
 sketchy tank
 lurking class
@@ -2540,7 +2490,6 @@ apple iphone
 champs sports
 omighty
 Camila Cabello
-Dodge
 Harley-Davidson
 loewe
 Lanvin
@@ -2650,7 +2599,7 @@ BLACK COWGIRLS
 Ali Gulec
 Michelle and Miriam Carolus
 doubledose
-twins
+
 Trendy Continue
 rotita
 Chill-N-Reel
@@ -2697,7 +2646,6 @@ Reus Research
 Zhou Jie
 Gabi Daiagi
 Precision Technology Holding Limited
-BLACK
 DECKER
 Abby Taylor
 loveabby.xo
@@ -2826,11 +2774,7 @@ Union Tradex
 Moh Alexis
 SynchMoves
 PRIME 4 SEASONINGS
-https
 wingrails.com
-sortOption
-descend
-created
 va0002400697
 va0002400703
 Svelte Jewelry
@@ -3450,14 +3394,11 @@ American Eagle Outfitters
 Aerie
 airfrance
 delta airlines
-MILLION
-LUCKY
 212 Heroes
 Bad Boy
 top gun
 HAMANAKA
 magic the gathering logo
-Shell
 Paris Saint-Germain
 goldwing
 Taco Bell
@@ -3512,12 +3453,11 @@ TASAKI
 Shaquille O'Neal
 Hubba Bubba
 Spot it
-Maison Francis Kurkdjian  Baccarat Rouge 540
+Maison Francis KurkdjianBaccarat Rouge 540
 very good girl
 Prince Rogers Nelson
 Blue Cross Beauty
 BLUE CROSS
-Nissan GTR
 Indianapolis Colts
 Cincinnati Bengals
 Detroit Lions
@@ -3543,7 +3483,6 @@ Wax Poetic
 Luka Doncic
 VeniCare
 Kikkoman Corporation
-Gucci  G
 Paul George
 NAKED WOLFE
 EBIN New York Inc
@@ -3551,13 +3490,12 @@ EBIN New York Inc
 EST 1759
 national hockey league
 boston bruins
-IP  Elvis Presley
+IPElvis Presley
 Taking Care of Business in a Flash.
 DC shoes
 The Gym King Limited
 gucci bloom
 Goorin Bros.
-Tiger
 Denver Broncos
 Red Bull GmbH
 Prime Hydration LLC
@@ -3576,7 +3514,7 @@ Go the Extra Smile
 Minnesota North Stars
 OpenAI
 Victorinox
-logo  McCaf
+logoMcCaf
 Deckers Outdoor Corporation
 Hoka One One
 CLINIQUE
@@ -3584,7 +3522,6 @@ C CLINIQUE
 The History of Whoo
 The history of
 Scania
-Alfa Romeo
 THESUPER MARIO BROS
 MOVIE
 Advance Magazine Publishers Inc.
@@ -3599,7 +3536,6 @@ Safeguard
 THE FOOTBALL ASSOCIATION logo
 message
 chat with message
-toyota CROWN
 world series
 world senies
 Real Hasta la Muerte
@@ -3610,7 +3546,7 @@ SEATTLE SEAHAWKS
 Washington Commanders logo
 Bluey
 This is not a MOSCHINO toy
-NFL   Arizona Cardinals
+NFL Arizona Cardinals
 Ottawa Senators
 NX-01
 Dama S.p.A.
@@ -3623,14 +3559,10 @@ Rammstein logo
 Chicago Blackhawks logo
 Tampa Bay Lightning logo
 Tampa Bay
-land rover logo
-land rover
-Citroen
 Vivienne Westwood logo
 Tampa Bay Buccaneers
 t & Chandon
 CHAMPAGNE
-Toyota
 RACING DEVELOPMENT TRD
 Diamond Supply Co.
 3260453
@@ -3686,11 +3618,10 @@ Costa Coffee
 Amuse Co.
 Receive take down notice from the trademark owner AMUSE Co.
 Ltd. on Sep 27
-2022 .
 GAMES OF THRONES WINTER IS HERE
 lenovo
 Birkin Bag
-burberry  TB logo
+burberryTB logo
 MelVontae LeQua Reese
 StayAheadCollection
 stay ahead25
@@ -3701,7 +3632,6 @@ Swift Speed
 FINDING NEMO
 DOC MCSTUFFINS
 CELINE 1967
-TOTAL
 SNKRS.
 washington redskins logo
 Odell Beckham
@@ -3720,11 +3650,8 @@ FAST FIT
 CLIMA FIT
 STR8-FIT.
 Mercurial
-FLIGHT
 LeBron Raymone James Sr.
 NIKE air
-Mitsubishi
-Hyundai
 Gilmore Girls
 Luke's Diner
 Luke's
@@ -3804,7 +3731,6 @@ WE DO ART
 Jurassic World Dominion
 Kobe Bryant
 Mamba
-Sports
 Rafael Nadal
 Brembo
 TRISTATE TRINOVATION IP S.A.
@@ -3835,11 +3761,7 @@ supr logo
 All star logo
 GUESS G
 McLaren
-Maybach
 STUTTGART
-Bugatti
-Ettore Bugatti
-Aston Martin Lagonda
 HERMES H logo
 Animal Planet
 nike aj13 logo
@@ -3885,7 +3807,6 @@ Akagi RedSuns
 los angeles sparks
 tote bag
 THE TOTE BAG
-peugeot logo
 Gryffindor
 Hufflepuff
 Ravenclaw
@@ -3906,7 +3827,6 @@ Laffy Taffy
 Odd Future
 CHNGE LOGO
 twister
-tigers
 Amy Driggers
 Taxidermy
 Alexander Wang
@@ -3924,19 +3844,9 @@ Atlanta Braves
 Fendi x FILA
 Phoenix Suns
 Goorin Bros bold hatmakers
-freedom
-1990-2021
-national
-hockey
-Minnesota
-chili
-peppers
 Marshmello Creative
-cowboys
 Tigers logo
 timberland
-fender
-Football
 Properties
 PlayStation Portable
 nike Air Force 1 Low Design
@@ -3950,7 +3860,6 @@ EVERLAST
 ri active
 SPIGEN logo
 Box Menswear
-lamborghini
 baby millo store by a bathing ape logo
 Armani Exchange
 BLUE BELL
@@ -3981,7 +3890,6 @@ KI logo
 XX logo kaws
 Cookies SF LLC
 Cookies SF
-cookies
 Deal Card Game
 Boston Red Sox logo
 St. Louis Cardinals logo
@@ -3990,7 +3898,6 @@ Kipling Apparel Corp.
 Eytys AB logo
 Jim Phillips
 Santa Cruz
-lexus
 American Express
 CARROTS
 ANWAR
@@ -4072,13 +3979,10 @@ The Salty Dog Cafe
 sprite
 Turn 10 Studio
 lone wolf
-celtics
 logo QUEEN
 central perk
 YOSHI
 Golf Wang
-woman
-cadillac series 62
 Modern Warfare 3
 Adobe
 ai illustration
@@ -4151,9 +4055,6 @@ Champion
 boy chanel
 Levi's
 burberryB
-Magshion Inc.
-Magshion Inc
-Magshion
 Hu haolin
 ROCKET BUBBLE
 oGorgeous
@@ -4168,7 +4069,6 @@ Bargain Online
 23 ENGINEERED
 76ers
 A&F Abercrombie & Fitch
-adidas samba
 air force
 Apparel Brands
 Ariel
@@ -4214,18 +4114,15 @@ Ed Hardy
 Face ID
 Fiesta
 Football Club
-Formula One Formula One
 FRANCIS KURKDJIAN
 FUEL PRINT
 Gallimard
 Gaultier
-Gerber
 Giants
 GLOBAL STORE SUPPLY
 Glock claiming trademark infringement.
 Gorillaz logo
 Goyard
-Gucci G
 HALARA
 HANGZHOU PULING TECHNOLOGY
 Hard Rock Cafe
@@ -4264,7 +4161,6 @@ Minnesota Wild
 Molang
 Narciso Rodriguez
 National Football League Properties
-NFL Arizona Cardinals
 NFL New Orleans Saints
 Nicki Minaj
 nintendo FAMICOM
@@ -4276,7 +4172,6 @@ our adventure book
 pacific sunwear
 PACKERS
 palmeiras
-PARIS
 PELICANS
 PERSONAL CARE
 Phillies
@@ -4308,10 +4203,10 @@ the Creator
 the dancing kid
 TOKYO
 Tongxiang Sifang Trading
-Toni锛咷uy
+Toni＆Guy
 TRIMMER
 Tyler
-Van Cleef锛咥rpels
+Van Cleef & Arpels
 Vault Boy
 Vikings
 WARHAMMER 40,000
@@ -4421,250 +4316,229 @@ avene
 khloe kardashian
 m.a.c
 The Home Depot
-
-EVEL  
-MIPS  
-Nike  
-Coty  
-xbox  
-BTS  
-KOA  
-NBA  
-sony  
-TIME  
-AF1  
-RL  
-Dior  
-L'Or  
-DG  
-CDG  
-BVB  
-MMG  
-KNVB  
-FCB  
-KUIU  
-3M  
-aape  
-ABC  
-acG  
-ACSM  
-ADA  
-AERO  
-agv  
-AIDA  
-Aiko  
-AJ  
-AJ 1  
-AJ11  
-ALO  
-APC  
-APEX  
-ASOS  
-ASRV  
-ASUS  
-AVON  
-AZUL  
-BAPE  
-BBC  
-BCBG  
-BDG  
-bebe  
-BMAI  
-BOSS  
-BT21  
-BV  
-C&A  
-CBA  
-CHHC  
-CK  
-coke  
-cola  
-CPB  
-CR7  
-CROC  
-D&G  
-DAZY  
-DC  
-Dell  
-DHL  
-DKNY  
-DOVE  
-DSQ  
-DSQ2  
-dunk  
-DVF  
-Este  
-EXO  
-FIFA  
-FILA  
-FUJI  
-gap  
-GCDS  
-GGDB  
-Giro  
-GM  
-GMC  
-GNC  
-GNR  
-GT3  
-H&M  
-HBO  
-Herm  
-HERO  
-Hoka  
-hp  
-HUGO  
-IKEA  
-ipad  
-ipsa  
-IRO  
-JBL  
-JYP  
-KARL  
-kaws  
-KC  
-KD  
-kfc  
-KONG  
-KTM  
-LEGO  
-LG  
-LOL  
-LUON  
-LV  
-mac  
-Mars  
-MCM  
-MK  
-MLB  
-MM6  
-MOTF  
-MSGM  
-MTG  
-MUJI  
-NARS  
-NASA  
-NB  
-NFL  
-NHL  
-NYC  
-NYSE  
-NYX  
-OLAY  
-OLLY  
-OPI  
-Oreo  
-OUAI  
-PETA  
-PH5  
-POC  
-POLO  
-PS3  
-PS5  
-PSD  
-PSP  
-puma  
-QOO  
-QQ  
-REFA  
-roxy  
-SF  
-SiDI  
-Siri  
-SKZ  
-SPY  
-SUJU  
-T90  
-Teva  
-TF  
-TIDE  
-Toni  
-TOUS  
-TRTL  
-Uber  
-UBS  
-UFC  
-UGG  
-UNO  
-Vans  
-VEJA  
-VS  
-VW  
-WB  
-WEN  
-Wera  
-WNBA  
-WOLF  
-WOW  
-WWE  
-WWF  
-Y-3  
-YETI  
-YSL  
-UEFA  
-zara  
-Bose  
-DJI  
-CORA  
-DOOM  
-eos  
-HDX  
-DACI  
-IGUY  
-WKU  
-EKU  
-UofL  
-RIO  
-Kubo  
-YUKI  
-PAQU  
-Gree  
-Kos  
-Bior  
-Lynx  
-oppo  
-URO  
-POL  
-ZT  
-7&I  
-711
-IPC  
-FORD  
-ION  
-TIGI  
-FIAT  
-FIA  
-JW  
-IBM  
-Nerf  
-P&G  
-BT  
-MB  
-itel  
-vivo  
-MELO  
-BMW  
-MINI  
-LINE  
-ANTA  
-SBS  
-FOX  
-TCB  
-Kia  
-AFA  
-USA  
-IG  
-TH  
-OKC  
-TB  
-SD  
-LA  
-CK  
-Meta  
-EB  
-UT  
-GA  
-MW3  
-AFC  
-PLAY  
+EVEL
+MIPS
+Nike
+Coty
+xbox
+BTS
+KOA
+NBA
+sony
+TIME
+AF1
+RL
+Dior
+L'Or
+DG
+CDG
+BVB
+MMG
+KNVB
+FCB
+KUIU
+3M
+aape
+ABC
+acG
+ACSM
+ADA
+AERO
+agv
+AIDA
+Aiko
+AJ
+AJ 1
+AJ11
+ALO
+APC
+APEX
+ASOS
+ASRV
+ASUS
+AVON
+AZUL
+BAPE
+BBC
+BCBG
+BDG
+bebe
+BMAI
+BOSS
+BT21
+BV
+C&A
+CBA
+CHHC
+CK
+coke
+cola
+CPB
+CR7
+CROC
+D&G
+DAZY
+DC
+Dell
+DHL
+DKNY
+DOVE
+DSQ
+DSQ2
+dunk
+DVF
+Este
+EXO
+FIFA
+FILA
+FUJI
+gap
+GCDS
+GGDB
+Giro
+GM
+GNC
+GNR
+GT3
+H&M
+HBO
+Herm
+HERO
+Hoka
+hp
+HUGO
+IKEA
+ipad
+ipsa
+IRO
+JBL
+JYP
+KARL
+kaws
+kfc
+KONG
+KTM
+LEGO
+LG
+LOL
+LUON
+LV
+mac
+Mars
+MCM
+MK
+MLB
+MM6
+MOTF
+MSGM
+MTG
+MUJI
+NARS
+NASA
+NB
+NFL
+NHL
+NYC
+NYSE
+NYX
+OLAY
+OLLY
+OPI
+Oreo
+OUAI
+PETA
+PH5
+POC
+POLO
+PS3
+PS5
+PSD
+PSP
+puma
+QOO
+QQ
+REFA
+roxy
+SF
+SiDI
+Siri
+SKZ
+SPY
+SUJU
+T90
+Teva
+TIDE
+Toni
+TOUS
+TRTL
+Uber
+UBS
+UFC
+UGG
+UNO
+Vans
+VEJA
+VW
+WB
+WEN
+Wera
+WNBA
+WOLF
+WOW
+WWE
+WWF
+Y-3
+YETI
+YSL
+UEFA
+zara
+Bose
+DJI
+CORA
+DOOM
+eos
+HDX
+DACI
+IGUY
+WKU
+EKU
+UofL
+RIO
+Kubo
+YUKI
+PAQU
+Gree
+Kos
+Bior
+Lynx
+oppo
+URO
+POL
+ZT
+7&I
+ION
+TIGI
+FIA
+JW
+IBM
+Nerf
+P&G
+BT
+MB
+itel
+vivo
+MELO
+LINE
+ANTA
+SBS
+FOX
+TCB
+AFA
+USA
+IG
+TH
+OKC
+Meta
+MW3
+AFC
 Marc
