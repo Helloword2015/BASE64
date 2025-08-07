@@ -4304,6 +4304,7 @@ Pfizer
 Merck
 GlaxoSmithKline
 Novartis
+NEXPAK USA
 Roche
 Sanofi
 AbbVie
@@ -4495,9 +4496,7 @@ zara
 Bose
 DJI
 CORA
-DOOM
 eos
-HDX
 DACI
 IGUY
 WKU
@@ -4534,7 +4533,6 @@ SBS
 FOX
 TCB
 AFA
-USA
 IG
 TH
 OKC
